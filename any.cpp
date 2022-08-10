@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 //type erasure idiom C++
-// for exaple any class 
+// for example any class 
 
 class any {
 private:
